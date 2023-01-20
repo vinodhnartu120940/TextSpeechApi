@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "rj3wqsJwEV1FmMyZOZRdw4ZBVC9Em9us/DpdWkLkP5g=",
+  "Source": "TextToSpeechAPI",
+  "BasePath": "_content/TextToSpeechAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TextToSpeechAPI\\wwwroot",
+      "Source": "TextToSpeechAPI",
+      "ContentRoot": "C:\\Users\\VINODH\\Downloads\\TextToSpeechAPI\\TextToSpeechAPI\\TextToSpeechAPI\\wwwroot\\",
+      "BasePath": "_content/TextToSpeechAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\VINODH\\Downloads\\TextToSpeechAPI\\TextToSpeechAPI\\TextToSpeechAPI\\wwwroot\\Resources\\sample1.pdf",
+      "SourceId": "TextToSpeechAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINODH\\Downloads\\TextToSpeechAPI\\TextToSpeechAPI\\TextToSpeechAPI\\wwwroot\\",
+      "BasePath": "_content/TextToSpeechAPI",
+      "RelativePath": "Resources/sample1.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\sample1.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\VINODH\\Downloads\\TextToSpeechAPI\\TextToSpeechAPI\\TextToSpeechAPI\\wwwroot\\Resources\\sample12.pdf",
+      "SourceId": "TextToSpeechAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINODH\\Downloads\\TextToSpeechAPI\\TextToSpeechAPI\\TextToSpeechAPI\\wwwroot\\",
+      "BasePath": "_content/TextToSpeechAPI",
+      "RelativePath": "Resources/sample12.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\sample12.pdf"
+    }
+  ]
+}
